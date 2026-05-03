@@ -1,0 +1,3 @@
+include config/extension.toml
+recursive-include learn_it_all_isaaclab_quadruped/assets/robots/data *
+recursive-include learn_it_all_isaaclab_quadruped/tasks *.yaml

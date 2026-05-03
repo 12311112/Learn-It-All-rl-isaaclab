@@ -1,0 +1,20 @@
+[package]
+version = "0.1.0"
+category = "isaaclab"
+readme = "README.md"
+
+title = "Learn-It-All IsaacLab Quadruped"
+author = "Learn-It-All-IsaacLab-Quadruped contributors"
+maintainer = "Learn-It-All-IsaacLab-Quadruped contributors"
+description = "External Isaac Lab project for custom quadruped assets and locomotion tasks."
+repository = "https://github.com/<your-user>/Learn-It-All-IsaacLab-Quadruped"
+keywords = ["isaaclab", "quadruped", "locomotion", "rsl_rl", "external-project"]
+
+[dependencies]
+"isaaclab" = {}
+"isaaclab_assets" = {}
+"isaaclab_rl" = {}
+"isaaclab_tasks" = {}
+
+[[python.module]]
+name = "learn_it_all_isaaclab_quadruped"
