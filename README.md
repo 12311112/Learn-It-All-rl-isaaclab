@@ -14,7 +14,9 @@ into a cleaner structure that is easier to open-source, install, and reproduce.
 - 
 - ## Demo Videos
 
-Uploading 52df2518c9b6cf07706bcbec8fc3300e_raw.mp4…
+https://github.com/user-attachments/assets/9533824b-c6be-4b57-abb7-b3535ab87d15
+
+
 https://github.com/user-attachments/assets/1b139a39-3bb8-4f09-8b10-c91d4368a620
 
 ## Prerequisites
