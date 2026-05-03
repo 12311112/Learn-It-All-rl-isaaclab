@@ -11,6 +11,13 @@ into a cleaner structure that is easier to open-source, install, and reproduce.
 - Registers custom Gym tasks for training and play
 - Includes RSL-RL launch scripts and custom RSL-RL/SKRL configs
 - Preserves a legacy task variant alongside the current mainline task
+- 
+- ## Demo Videos
+
+
+
+https://github.com/user-attachments/assets/1b139a39-3bb8-4f09-8b10-c91d4368a620
+
 
 ## Prerequisites
 
@@ -63,7 +70,6 @@ python scripts/rsl_rl/play.py --task=LearnItAll-DogM-Direct-v0 --checkpoint /pat
 python scripts/rsl_rl/play.py --task=LearnItAll-DogM-Flat-Play-v0 --checkpoint /path/to/model.pt
 ```
 
-## Demo Videos
 
 
 
