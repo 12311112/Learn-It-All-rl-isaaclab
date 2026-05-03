@@ -1,8 +1,10 @@
 # Learn-It-All IsaacLab Quadruped
-
 An Isaac Lab external project for a custom quadruped locomotion setup. This
 repository extracts the quadruped-specific work from a local Isaac Lab workspace
 into a cleaner structure that is easier to open-source, install, and reproduce.
+
+IsaacLab is a simulation platform designed for robotics research and development. It provides a powerful environment for robot modeling, reinforcement learning, and policy evaluation.
+In this project, the robot does not include sensors such as LiDAR. Therefore, IsaacLab is not the core deployment chain of this project. Instead, it is included mainly for learning purposes, helping users become familiar with IsaacLab as a mainstream robotics simulation platform.
 
 ## Highlights
 
