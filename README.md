@@ -65,8 +65,7 @@ python scripts/rsl_rl/play.py --task=LearnItAll-DogM-Flat-Play-v0 --checkpoint /
 
 ## Demo Videos
 
-- Add GIF, MP4, or YouTube/Bilibili links here
-- Recommended: one flat-terrain clip and one rough-terrain clip
+
 
 ## Project Structure
 
