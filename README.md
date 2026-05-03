@@ -14,10 +14,8 @@ into a cleaner structure that is easier to open-source, install, and reproduce.
 - 
 - ## Demo Videos
 
-
-
+Uploading 52df2518c9b6cf07706bcbec8fc3300e_raw.mp4…
 https://github.com/user-attachments/assets/1b139a39-3bb8-4f09-8b10-c91d4368a620
-
 
 ## Prerequisites
 
@@ -69,9 +67,6 @@ python scripts/rsl_rl/train.py --task=LearnItAll-DogM-Rough-v0
 python scripts/rsl_rl/play.py --task=LearnItAll-DogM-Direct-v0 --checkpoint /path/to/model.pt
 python scripts/rsl_rl/play.py --task=LearnItAll-DogM-Flat-Play-v0 --checkpoint /path/to/model.pt
 ```
-
-
-
 
 ## Project Structure
 
