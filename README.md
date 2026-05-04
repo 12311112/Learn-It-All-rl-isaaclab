@@ -17,17 +17,14 @@ In this project, the robot does not include sensors such as LiDAR. Therefore, Is
 - ## Demo Videos
 
 https://github.com/user-attachments/assets/9533824b-c6be-4b57-abb7-b3535ab87d15
-
-
 https://github.com/user-attachments/assets/1b139a39-3bb8-4f09-8b10-c91d4368a620
 
 ## Prerequisites
 
-Install Isaac Lab first by following the official setup guide:
-
-- https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/index.html
-
-Use the same Python environment that already has Isaac Lab installed.
+Install Isaac Lab first 
+Linux Ubuntu22.04 + IsaacSim4.5 + IsaacLab2.1.0
+We recommend beginners use the server cloud desktop. The URL is as follows:
+https://internal.limxdynamics.com/cloudDesktop
 
 ## Install This Project
 
